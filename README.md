@@ -70,3 +70,44 @@ First you will need to fork and clone the following GitHub repository:
 
 
 For each plot you should
+
+* Construct the plot and save it to a PNG file with a width of 480
+pixels and a height of 480 pixels.
+
+* Name each of the plot files as `plot1.png`, `plot2.png`, etc.
+
+* Create a separate R code file (`plot1.R`, `plot2.R`, etc.) that
+constructs the corresponding plot, i.e. code in `plot1.R` constructs
+the `plot1.png` plot. Your code file **should include code for reading
+the data** so that the plot can be fully reproduced. You should also
+include the code that creates the PNG file.
+
+* Add the PNG file and R code file to your git repository
+
+When you are finished with the assignment, push your git repository to
+GitHub so that the GitHub version of your repository is up to
+date. There should be four PNG files and four R code files.
+
+
+The four plots that you will need to construct are shown below. 
+
+
+### Plot 1
+
+
+![plot1.png](plot1.png) 
+
+
+### Plot 2
+
+![plot2.png](plot2.png) 
+
+
+### Plot 3
+
+![plot3.png](plot3.png) 
+
+
+### Plot 4
+
+![plot5.png](plot4.png) 
